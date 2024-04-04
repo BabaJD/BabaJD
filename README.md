@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Babajide Abraham
+### Hi there 👋, my name is Abraham
 #### I am a Software Engineer
 ![I am a Software Engineer](https://github.com/BabaJD/BabaJD/blob/main/Babajide%20Abraham%20Alamu.jpeg)
 
