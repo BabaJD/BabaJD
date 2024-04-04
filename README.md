@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Babajide Abraham
+### Hi there 👋, my name is Abraham
 #### I am a Software Engineer
 I'm an aspiring **Software Engineer** and **Data Analyst**, currently immersing myself in the fascinating world of coding and data while working full-time and preparing for the London Marathon. 
 
