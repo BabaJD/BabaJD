@@ -1,5 +1,7 @@
-### Hi there 👋, my name is Abraham
+### Hi there 👋, my name is Babajide Abraham
 #### I am a Software Engineer
+![I am a Software Engineer](https://github.com/BabaJD/BabaJD/blob/main/Babajide%20Abraham%20Alamu.jpeg)
+
 I'm an aspiring **Software Engineer** and **Data Analyst**, currently immersing myself in the fascinating world of coding and data while working full-time and preparing for the London Marathon. 
 
 I'm passionate about using technology to solve complex problems and create innovative solutions. My journey in software engineering has equipped me with a strong foundation in coding principles, and my interest in data analysis allows me to see the stories that data can tell. I'm excited about the intersection of these fields and the potential it holds.
